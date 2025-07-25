@@ -1,0 +1,7 @@
+/home/pi/alldrivers/gpio_led.o
+/home/pi/alldrivers/button_irq.o
+/home/pi/alldrivers/char_dev.o
+/home/pi/alldrivers/platform_custom.o
+/home/pi/alldrivers/i2c_temp.o
+/home/pi/alldrivers/spi_adc.o
+/home/pi/alldrivers/uart_gps.o
